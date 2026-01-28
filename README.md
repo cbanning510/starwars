@@ -112,8 +112,8 @@ src/
 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd swapi-assessment
+git clone git@github.com:cbanning510/starwars.git
+cd starwars
 ```
 
 2. Install dependencies
